@@ -3,25 +3,32 @@ body {
 }
 
 .flex-containeer {
-
     display: flex;
     align-items: center;
     flex-direction: column;
 }
 
 .flex-containeer > div {
-
-    margin-top: 50px;
+    padding: 20px;
+    margin-top: 150px;
     background-color: ghostwhite;
     display: block;
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
     width: 500px;
 }
 
-div p {
-    font-size: 17px;
+div img {
+    height: 100px;
+    float: left;
 }
+
+div p {
+    font-size: 18px;
+}
+
+
 
 input {
     width: 200px;
@@ -33,6 +40,8 @@ input {
 
 #button {
     background-color: #5f7de5;
+    width: 100px;
+    border-radius: 5px;
 }
 
 #button:hover {
