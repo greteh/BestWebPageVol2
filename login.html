@@ -8,15 +8,18 @@
     <meta name="viewport" content="width=device-width, inital-scale=1"/>
 </head>
 <body>
-<div>
-    <h1>Welcome to postIt!</h1><br>
-    <h1>Create an Account</h1><br>
-    <h1>Or</h1><br>
-    <h1>Please Log In</h1>
-    <form>
-        <input type="text" value="Email"><br>
-        <input type="text" value="Password">
-    </form>
+<div class="flex-containeer">
+    <div>
+        <h1>Welcome to postIt!</h1>
+        <p><a href=none>Create an account</a></p>
+        <p>or</p>
+        <p>Please log in</p>
+        <form>
+            <input type="text" placeholder="Email"><br>
+            <input type="password" placeholder="Password"><br>
+            <input type="button" value="Log In" id="button" onclick="location.href = 'index.html'">
+        </form>
+        <p><a href=none>Forgot password?</a></p>
+    </div>
 </div>
-
 </body>
