@@ -8,7 +8,7 @@ body {
     flex-direction: column;
 }
 
-.flex-containeer > div {
+.flex-containeer>div {
     padding: 20px;
     margin-top: 150px;
     background-color: ghostwhite;
@@ -22,13 +22,19 @@ body {
 div img {
     height: 100px;
     float: left;
+    width: 100px;
+    text-align: left;
+}
+
+div .helper {
+    float: right;
+    width: 100px;
+    text-align: right;
 }
 
 div p {
     font-size: 18px;
 }
-
-
 
 input {
     width: 200px;
@@ -47,6 +53,3 @@ input {
 #button:hover {
     background-color: royalblue;
 }
-
-
-
