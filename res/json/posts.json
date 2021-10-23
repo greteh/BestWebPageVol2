@@ -1,0 +1,71 @@
+[{
+        "profilePicture": "res/images/Account.png",
+        "postPicture": "res/images/penguins.jpg",
+        "likePicture": "res/images/Like.png",
+        "text": "GUYS! I saw 3 penguins today! BEST DAY OF MY LIFE!",
+        "date": "Sep 25, 2021 13.34"
+    },
+    {
+        "profilePicture": "res/images/Account2.png",
+        "postPicture": "",
+        "likePicture": "res/images/Like.png",
+        "text": "Aww ❤❤❤ Where did you see them?",
+        "date": "Sep 25, 2021 13.40"
+    },
+    {
+        "profilePicture": "res/images/Account.png",
+        "postPicture": "res/images/parade.jpg",
+        "likePicture": "res/images/Like.png",
+        "text": "I saw them on a Parade... PARADE OF THE PENGUINS!!!",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    },
+    {
+        "profilePicture": "res/images/penguins.jpg",
+        "postPicture": "res/images/Account.png",
+        "likePicture": "res/images/Like.png",
+        "text": "Tere",
+        "date": "2018, 11, 24, 10, 33, 30"
+    }
+]
