@@ -48,6 +48,10 @@ nav div.account {
     cursor: pointer;
 }
 
+.dropbtn img{
+    height: 30px;
+}
+
 .dropdown-content {
     display: none;
     background-color: white;
