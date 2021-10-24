@@ -21,7 +21,7 @@ nav div img {
     height: 100%;
 }
 
-nav div.search-container>input {
+nav div.search-container > input {
     box-sizing: border-box;
     height: 30px;
     width: 80%;
@@ -30,7 +30,7 @@ nav div.search-container>input {
     border: 1px solid #e0e0e0;
 }
 
-nav div.search-container>button {
+nav div.search-container > button {
     color: #e0e0e0;
     box-sizing: border-box;
     height: 30px;
@@ -47,6 +47,28 @@ nav div.account {
     text-align: right;
     cursor: pointer;
 }
+
+.dropdown-content {
+
+    display: none;
+    background-color: white;
+    position: relative;
+    width: min-content;
+    height: min-content;
+    overflow: auto;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.4);
+}
+.account:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content p {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+}
+
 
 .main {
     margin: auto;
@@ -79,7 +101,7 @@ nav div.account {
     height: 100%;
 }
 
-.post-heading img+p {
+.post-heading img + p {
     font-size: 14px;
     font-weight: normal;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -104,7 +126,7 @@ nav div.account {
     color: red;
 }
 
-.post-content img~p {
+.post-content img ~ p {
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
@@ -136,3 +158,4 @@ footer {
 footer sup {
     font-weight: bold;
 }
+
