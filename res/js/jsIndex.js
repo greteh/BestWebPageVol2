@@ -1,5 +1,5 @@
-$(function() { // https://api.npoint.io/ea8373c445cb032c57f1
-    $.get("res/json/posts.json", function(posts) {
+$(function() { // res/json/posts.json
+    $.get("https://api.npoint.io/ea8373c445cb032c57f1", function(posts) {
         for (post of posts) {
             let divPost = $('<div class= "post">');
             let divHeading = $('<div class= "post-heading">');
