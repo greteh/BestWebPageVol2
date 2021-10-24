@@ -33,9 +33,9 @@ $(function() { // https://api.npoint.io/ea8373c445cb032c57f1
     })
 });
 
-$(function dropdownMenu(){
+function dropdownMenu(){
     document.getElementById("ddc").classList.toggle("show");
-});
+}
 
 window.onclick = function(event) {
     if (!event.target.matches(".dropbtn")) {
