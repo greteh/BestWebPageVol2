@@ -17,55 +17,55 @@
         "postPicture": "res/images/parade.jpg",
         "likePicture": "res/images/Like.png",
         "text": "I saw them on a Parade... PARADE OF THE PENGUINS!!!",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "date": "Sep 25, 2021 13.44"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/fox.jpg",
+        "postPicture": "",
         "likePicture": "res/images/Like.png",
-        "text": "Wow, that is unbelievable!",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "I wish that I were there \uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D",
+        "date": "Sep 25, 2021 13.46"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/Account.png",
+        "postPicture": "res/images/proud.jpg",
         "likePicture": "res/images/Like.png",
-        "text": "I wish that I were there...",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "They are really incredible creatures indeed.",
+        "date": "Oct 22, 2021 15.46"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/Account2.png",
+        "postPicture": "",
         "likePicture": "res/images/Like.png",
-        "text": "They are really incredible creatures. Did you know that they can dive for almost 30 minutes with single breath?",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "Long time no seen mate. How have you been?",
+        "date": "Oct 22, 2021 15.54"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/Account.png",
+        "postPicture": "res/images/sliding.jpg",
         "likePicture": "res/images/Like.png",
-        "text": "Tere",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "You know... Busy as a penguin. Just wiggling here, sliding there. How about you?",
+        "date": "Oct 22, 2021 16.04"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/Account2.png",
+        "postPicture": "res/images/haircut.jpg",
         "likePicture": "res/images/Like.png",
-        "text": "Tere",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "Same old. My wife said that I need a haircut, but I'm not so sure",
+        "date": "Oct 22, 2021 16.10"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/fox.jpg",
+        "postPicture": "",
         "likePicture": "res/images/Like.png",
-        "text": "Tere",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "I think it looks lovely \uD83D\uDE0D",
+        "date": "Oct 22, 2021 16.13"
     },
     {
-        "profilePicture": "res/images/penguins.jpg",
-        "postPicture": "res/images/Account.png",
+        "profilePicture": "res/images/giraffe.jpg",
+        "postPicture": "",
         "likePicture": "res/images/Like.png",
-        "text": "Tere",
-        "date": "2018, 11, 24, 10, 33, 30"
+        "text": "Yeah, you are a real heartbreaker \uD83D\uDE02",
+        "date": "Oct 22, 2021 16.18"
     }
 ]
