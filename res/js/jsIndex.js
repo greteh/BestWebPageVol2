@@ -1,5 +1,5 @@
-$(function() {
-    $.get("https://api.npoint.io/ea8373c445cb032c57f1", function(posts) {
+$(function() { // https://api.npoint.io/ea8373c445cb032c57f1
+    $.get("res/json/posts.json", function(posts) {
         for (post of posts) {
             let divPost = $('<div class= "post">');
             let divHeading = $('<div class= "post-heading">');
@@ -32,3 +32,20 @@ $(function() {
 
     })
 });
+
+$(function dropdownMenu(){
+    document.getElementById("ddc").classList.toggle("show");
+});
+
+window.onclick = function(event) {
+    if (!event.target.matches(".account")) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+            var openDropdown = dropdowns[i];
+            if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+            }
+        }
+    }
+}
