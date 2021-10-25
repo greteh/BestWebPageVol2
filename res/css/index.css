@@ -21,7 +21,7 @@ nav div img {
     height: 100%;
 }
 
-nav div.search-container > input {
+nav div.search-container>input {
     box-sizing: border-box;
     height: 30px;
     width: 80%;
@@ -30,11 +30,11 @@ nav div.search-container > input {
     border: 1px solid #e0e0e0;
 }
 
-nav div.search-container > button {
+nav div.search-container>button {
     color: #e0e0e0;
     box-sizing: border-box;
     height: 30px;
-    width: 20%;
+    width: 15%;
     margin: 0;
     padding: 5px;
     border: 1px solid #e0e0e0;
@@ -48,7 +48,7 @@ nav div.account {
     cursor: pointer;
 }
 
-.dropbtn{
+.dropbtn {
     height: 30px;
 }
 
@@ -72,6 +72,7 @@ nav div.account {
 .show {
     display: block;
 }
+
 .main {
     margin: auto;
     background-color: white;
@@ -103,7 +104,7 @@ nav div.account {
     height: 100%;
 }
 
-.post-heading img + p {
+.post-heading img+p {
     font-size: 14px;
     font-weight: normal;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -128,7 +129,7 @@ nav div.account {
     color: red;
 }
 
-.post-content img ~ p {
+.post-content img~p {
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
@@ -160,4 +161,3 @@ footer {
 footer sup {
     font-weight: bold;
 }
-

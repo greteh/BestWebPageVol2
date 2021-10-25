@@ -1,5 +1,5 @@
 $(function() { // res/json/posts.json
-    $.get("https://api.npoint.io/ea8373c445cb032c57f1", function(posts) {
+    $.get("https://api.npoint.io/c5e0abae36a9e6f22b91", function(posts) {
         for (post of posts) {
             let divPost = $('<div class= "post">');
             let divHeading = $('<div class= "post-heading">');
@@ -33,7 +33,7 @@ $(function() { // res/json/posts.json
     })
 });
 
-function dropdownMenu(){
+function dropdownMenu() {
     document.getElementById("ddc").classList.toggle("show");
 }
 
